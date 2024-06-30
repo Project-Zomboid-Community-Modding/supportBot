@@ -1,3 +1,5 @@
+*Credit to the bulk of this information to: BowlOodaLoops.*
+
 ## Project Zomboid Dedicated Server Mod Load Order
 
 1) Maps
