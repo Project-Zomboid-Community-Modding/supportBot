@@ -1,5 +1,3 @@
-*Credit to the bulk of this information to: BowlOodaLoops.*
-
 ## Project Zomboid Dedicated Server Mod Load Order
 
 1) Maps
@@ -29,7 +27,7 @@ If you are running this in dockerized environments, such as Pterodactyl, then th
 
 If you are using mods, this will rapidly increase towards a baseline of anywhere from 4 - 12gb of RAM for just the game itself to operate with all the mods loaded. And require as much as 0.6-1.7gb/player connected.
 
-&nbsp;
+----
 
 ## Project Zomboid Mod Amounts and Categorization:
 
@@ -47,7 +45,7 @@ Heavily modded: 250+ mods (entire map remake, tile packs all over, multiple mod 
 
 Its not just the number of mods, it also depends on what the mods do. For example, not all vehicle mods are created equal. Filibuster Rhymes used cars is a great mod that adds alot of vehicles, and isnt that intensive on resources. On the other hand, the helicoper mod, which adds only one vehicle (flyable helo), can crash a server that isnt powerful enough to handle it.
 
-&nbsp;
+----
 
 ## Project Zomboid Anticheats
 Type 1: Hitting Players/Vehicles
@@ -141,3 +139,8 @@ Kicks the player if their time multiplier is different than the one on the serve
 
 Type 24: Time Multiplier Time-out
 Kicks the player if they don't respond to the time multiplier check in time. The timeout for the time multiplier check is (in milliseconds)
+
+----
+
+## Tech-Support Information Credits:
+- BowlOodaLoops
