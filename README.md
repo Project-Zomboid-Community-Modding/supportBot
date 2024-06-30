@@ -143,4 +143,4 @@ Kicks the player if they don't respond to the time multiplier check in time. The
 ----
 
 ## Tech-Support Information Credits:
-- BowlOodaLoops
+- BowlOfOodaLoops
