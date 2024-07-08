@@ -5,11 +5,11 @@ There are 24 Anti-Cheat Types.
 
 Type 1: Hitting Players/Vehicles
 This check makes sure you don't hurt someone that you shouldn't be able to, specifically, it will fail if any of the following is correct:
-- The victim is in god-mode.
-- PVP is disabled in Server Options.
-- Either the victim or the attacker have safety enabled (when the safety system is enabled in Server Options).
-- Either the victim or the attacker are in a non-PVP zone.
-- The victim or the attacker are in the same faction, and faction PVP is disabled.
+a. The victim is in god-mode.
+b. PVP is disabled in Server Options.
+c. Either the victim or the attacker have safety enabled (when the safety system is enabled in Server Options).
+d. Either the victim or the attacker are in a non-PVP zone.
+e. The victim or the attacker are in the same faction, and faction PVP is disabled.
 
 Type 2: Speed Check
 A simple, raw speed check that verifies that the player or their vehicle is not going too fast. For vehicles, it uses the speed limit in the server options, and for players, it uses an hardcoded value of 10.
@@ -28,9 +28,9 @@ In the `ZombieHitPlayerPacket` packet, verifies that the player sending the pack
 
 Type 7: Safehouse Authorization Check
 In the `ZombieHitPlayerPacket` packet, kicks the player if none of the following conditions apply:
-- The safehouse has no owner (set to null or empty string).
-- The player is the owner of the safehouse.
-- The player is a moderator.
+a. The safehouse has no owner (set to null or empty string).
+b The player is the owner of the safehouse.
+c. The player is a moderator.
 
 Type 8: Packet Authorization Check
 Checks if a player is "authorized" to send a certain packet based on the action that they represent, unless the player is in debug mode or privileged.
