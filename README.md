@@ -30,17 +30,19 @@ Mr. Bowl's Project Zomboid Mod Amounts and Categorization:
 
 Note: Information based on community feedback over several years.
 
-Vanilla: is 0 to 12 mods (non game changing, QoL only, no maps).
+"Vanilla" : is 0 mods.
 
-Light modded: 12 to 75 mods (some maps, no tile packs, qol, some vehicles, few weapons).
+"Vanilla+" : is 1 to 12 mods (non game changing, QoL only, no maps).
 
-Moderately modded: 50 to 125 mods (maps with tile packs, vehicles, lots of qol, character changing mods, framework mods, etc).
+"Light" modded: 12 to 75 mods (some maps, no tile packs, qol, some vehicles, few weapons).
 
-Moderate+ Modded: 100 to 250 mods (lots of maps, lots of tile packs, lots of vehicles, mods that add entirely new functions like an economy, reworks to foraging or farming systems, adjusted loot tables, etc).
+"Moderately" modded: 50 to 125 mods (maps with tile packs, vehicles, lots of qol, character changing mods, framework mods, etc).
 
-Heavily modded: 250+ mods (entire map remake, tile packs all over, multiple mod dependencies, etc etc etc).
+"Moderate+" Modded: 100 to 250 mods (lots of maps, lots of tile packs, lots of vehicles, mods that add entirely new functions like an economy, reworks to foraging or farming systems, adjusted loot tables, etc).
 
-Its not just the number of mods, it also depends on what the mods do. For example, not all vehicle mods are created equal. Filibuster Rhymes used cars is a great mod that adds alot of vehicles, and isnt that intensive on resources. On the other hand, the helicoper mod, which adds only one vehicle (flyable helo), can crash a server that isnt powerful enough to handle it.
+"Heavily" modded: 250+ mods (entire map remake, tile packs all over, multiple mod dependencies, etc etc etc).
+
+This all also depends on the mods. For example, not all vehicle mods are created equal. Filibuster-Rhymes' Used Cars adds a lot of vehicles without being intensive on resources. On the other hand, the flyable-helicoper mod can crash a server that isn't powerful enough.
 
 ----
 
